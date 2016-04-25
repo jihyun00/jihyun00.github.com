@@ -7,7 +7,7 @@ permalink:           pretty
 title:               "JIHYUN'S BLOG"
 description:         '배운 내용들을 정리하는 공간'
 url:                 http://jihyun00.github.io
-baseurl:             '/'
+baseurl:             'http://jihyun00.github.io'
 paginate:            5
 
 # About/contact
