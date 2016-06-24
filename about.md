@@ -3,28 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Jihyun Choi
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* [github](https://github.com/jihyun00)
+* [Linkedin](https://www.linkedin.com/in/jihyun-choi-b0a933b4?trk=nav_responsive_tab_profile_pic)
+* [Facebook](https://www.facebook.com/jihyun00)
 
-There are currently two themes built on Poole:
+### Education
+- Soongsil University Computer engineering Bachelor(2012-2017)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Works
+- (주)YDEA SW Engineering Intern(2014.09 ~ 2015.02)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Project
+- 공군 공감(2013. 09 ~ 2013. 11)
+- Beat for Blind(2013.09 ~ 2014. 02)
+- Ticketto(2014.03 ~ 2014.08)
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* I specially interested in web development and machine learning. Thank you for reading. :-)
