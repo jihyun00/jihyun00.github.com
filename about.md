@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Jihyun Choi
 ---
-
-# Jihyun Choi
 
 * [github](https://github.com/jihyun00)
 * [Linkedin](https://www.linkedin.com/in/jihyun-choi-b0a933b4?trk=nav_responsive_tab_profile_pic)
