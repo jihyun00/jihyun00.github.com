@@ -4,7 +4,7 @@ title: Jihyun Choi
 ---
 
 Hello, I'm Jihyun Choi
-I specially interested in web development and machine learning! Thank you for reading :-)
+I am specially interested in web development and machine learning! Thank you for reading :-)
 
 * [github](https://github.com/jihyun00)
 * [Linkedin](https://www.linkedin.com/in/jihyun-choi-b0a933b4?trk=nav_responsive_tab_profile_pic)
