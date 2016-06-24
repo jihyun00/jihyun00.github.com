@@ -10,10 +10,11 @@ title: About
 * [Facebook](https://www.facebook.com/jihyun00)
 
 ### Education
-- Soongsil University Computer engineering Bachelor(2012-2017)
+
+- Soongsil University, Computer engineering Bachelor(2012-2017)
 
 ### Works
-- (주)YDEA SW Engineering Intern(2014.09 ~ 2015.02)
+- (주)YDEA, SW Engineering Intern(2014.09 ~ 2015.02)
 
 ### Project
 - 공군 공감(2013. 09 ~ 2013. 11)
