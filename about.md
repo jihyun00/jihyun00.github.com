@@ -20,4 +20,5 @@ title: Jihyun Choi
 - Ticketto(2014.03 ~ 2014.08)
 
 
-* I specially interested in web development and machine learning. Thank you for reading. :-)
+
+I specially interested in web development and machine learning. Thank you for reading. :-)
