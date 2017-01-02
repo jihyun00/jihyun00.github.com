@@ -7,6 +7,7 @@ author: Jihyun Choi
 tags: [deployments, blue, green]
 permalink: /technique
 ---
+
 # Blue-Green deployments
 
 Blue, Green 은 동일한 환경이다. 운영이 Blue 환경에서 일어나고 있다고 가정해보자.
