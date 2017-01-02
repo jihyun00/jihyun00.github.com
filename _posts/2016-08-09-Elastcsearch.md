@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PROJECT
+title: Elasticsearch Bulk API
 permalink: /project
 ---
 
@@ -21,5 +21,4 @@ Bulk API를 이용할 때 데이터가 반드시,
 ```
 이와 같은 형태로 들어가야 한다는 것.
 
-즉, 각각의 데이터에 대해 _index, _type, _id 데이터가 포함되어야 함. 
-
+즉, 각각의 데이터에 대해 _index, _type, _id 데이터가 포함되어야 함.
