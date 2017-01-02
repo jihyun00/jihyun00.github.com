@@ -4,8 +4,6 @@ title: Elasticsearch Bulk API
 permalink: /project
 ---
 
-# ElasticSearch
-
 회사에서 Kafka에 있는 데이터를 Elasticsearch로 옮기는 API를 개발하였다.
 
 Bulk API를 사용하면서 간략한 이슈가 있었는데,
